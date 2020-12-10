@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a342371-e4f0-4d5d-9132-982e67a0ed0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ArgosJourney.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +13,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\MyFolder\myProgramming\Java\ArgosJourney\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1lTbue0JKF0a0czflUcjmxaA3Ph" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,6 +30,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -50,6 +56,36 @@
       <option name="presentableId" value="Default" />
       <updated>1607624251122</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1607624655785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607624655785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1968" y="2" key="CommitChangelistDialog2" timestamp="1607624648906">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="1968" y="2" key="CommitChangelistDialog2/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607624648906" />
+    <state x="1827" y="50" key="SettingsEditor" timestamp="1607625444939">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="1827" y="50" key="SettingsEditor/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607625444939" />
+    <state x="1918" y="141" key="Vcs.Push.Dialog.v2" timestamp="1607624706527">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="1918" y="141" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607624706527" />
+    <state x="2059" y="199" key="git4idea.merge.GitPullDialog" timestamp="1607624835902">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="2059" y="199" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607624835902" />
   </component>
 </project>
