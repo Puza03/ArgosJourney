@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a342371-e4f0-4d5d-9132-982e67a0ed0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6a342371-e4f0-4d5d-9132-982e67a0ed0e" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="automation.order.placement.Order" />
+      <module name="ArgosJourney" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="automation.order.placement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Order" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -71,21 +94,45 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1968" y="2" key="CommitChangelistDialog2" timestamp="1607624648906">
+    <state x="1918" y="66" key="#Project_Structure" timestamp="1607627012088">
       <screen x="1366" y="-113" width="1920" height="1040" />
     </state>
-    <state x="1968" y="2" key="CommitChangelistDialog2/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607624648906" />
+    <state x="1918" y="66" key="#Project_Structure/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607627012088" />
+    <state x="2048" y="152" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607627227835">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="2048" y="152" width="1092" height="775" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607627227835" />
+    <state x="2174" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1607626904696">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="2174" y="297" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607626904696" />
+    <state x="1968" y="2" key="CommitChangelistDialog2" timestamp="1607627885788">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="1968" y="2" key="CommitChangelistDialog2/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607627885788" />
+    <state x="2106" y="206" key="FileChooserDialogImpl" timestamp="1607627202422">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="2106" y="206" key="FileChooserDialogImpl/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607627202422" />
     <state x="1827" y="50" key="SettingsEditor" timestamp="1607625444939">
       <screen x="1366" y="-113" width="1920" height="1040" />
     </state>
     <state x="1827" y="50" key="SettingsEditor/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607625444939" />
-    <state x="1918" y="141" key="Vcs.Push.Dialog.v2" timestamp="1607624706527">
+    <state x="1918" y="141" key="Vcs.Push.Dialog.v2" timestamp="1607626228985">
       <screen x="1366" y="-113" width="1920" height="1040" />
     </state>
-    <state x="1918" y="141" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607624706527" />
+    <state x="1918" y="141" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607626228985" />
+    <state x="2022" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1607626847632">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="2022" y="232" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607626847632" />
     <state x="2059" y="199" key="git4idea.merge.GitPullDialog" timestamp="1607624835902">
       <screen x="1366" y="-113" width="1920" height="1040" />
     </state>
     <state x="2059" y="199" key="git4idea.merge.GitPullDialog/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607624835902" />
+    <state x="1708" y="103" key="new project wizard" timestamp="1607627284359">
+      <screen x="1366" y="-113" width="1920" height="1040" />
+    </state>
+    <state x="1708" y="103" key="new project wizard/0.0.1366.728/1366.-113.1920.1040@1366.-113.1920.1040" timestamp="1607627284359" />
   </component>
 </project>
